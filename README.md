@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chauhansumit01  , 19yo
+- 👋 Hi, I’m Sumit Chauhan  , 19yo
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning dsa and front end web dev
 - 💞️ I’m looking to collaborate on front end web dev
