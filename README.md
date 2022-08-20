@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Sumit Chauhan  , 19yo
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning dsa and front end web dev
-- 💞️ I’m looking to collaborate on front end web dev
-- 📫 How to reach me https://twitter.com/chauhansumit01
+Hi, I’m Sumit Chauhan  , 19yo, Front End Web Dev
+Connect here - https://twitter.com/chauhansumit01
 
 <!---
 chauhansumit01/chauhansumit01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
