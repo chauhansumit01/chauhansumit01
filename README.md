@@ -1,4 +1,4 @@
-Hi, I’m Sumit Chauhan  , 19yo, Front End Web Dev
+Hi, I’m Sumit Chauhan  , 19yo, Graphic designer, front end web dev, java
 Connect here - https://twitter.com/chauhansumit01
 
 <!---
